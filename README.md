@@ -7,4 +7,4 @@
 - Student
 
 ## Languages and Tools I use:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Visual_Studio_Code.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
