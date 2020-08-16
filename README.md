@@ -23,4 +23,4 @@
 ## My Stats:
 
 <img align="left" src="https://github-readme-stats.bamblebam.vercel.app/api?username=bamblebam&show_icons=true&theme=radical" />
-<img align="left" src="https://github-readme-stats.bamblebam.vercel.app/api/top-langs/?username=bamblebam" />
+<img align="left" src="https://github-readme-stats.bamblebam.vercel.app/api/top-langs/?username=bamblebam&layout=compact" />
