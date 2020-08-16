@@ -22,4 +22,4 @@
 
 ## My Stats:
 
-<img src="https://github-readme-stats.bamblebam.vercel.app/api?username=bamblebam&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.bamblebam.vercel.app/api?username=bamblebam&show_icons=true&theme=radical" />
